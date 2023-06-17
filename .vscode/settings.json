@@ -26,5 +26,10 @@
     "test/**/__snapshots__": true,
     "package-lock.json": true,
     "*.{css,sass,scss}.d.ts": true
-  }
+  },
+  "cSpell.words": [
+    "Fotograph",
+    "Adedoyin",
+    "Adeniyi"
+  ]
 }

@@ -261,6 +261,6 @@
     ],
     "logLevel": "quiet"
   },
-  "name": "Fotograph",
+  "name": "fotograph",
   "version": "1.0.0"
 }
